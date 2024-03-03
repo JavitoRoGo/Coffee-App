@@ -1,0 +1,26 @@
+[
+  {
+    "purchasingDate" : "25\/12\/2015",
+    "price" : 99,
+    "machine" : "Inissia",
+    "name" : "Inissia DeLonghi",
+    "image" : "inissia",
+    "color" : "Vainilla"
+  },
+  {
+    "purchasingDate" : "25\/05\/2017",
+    "price" : 149,
+    "machine" : "Pixie",
+    "name" : "Pixie Krups",
+    "image" : "pixie",
+    "color" : "Electric Titanium"
+  },
+  {
+    "purchasingDate" : "02\/09\/2021",
+    "price" : 99,
+    "machine" : "Essenza Mini",
+    "name" : "Essenza Mini Krups",
+    "image" : "essenza",
+    "color" : "C Metal"
+  }
+]

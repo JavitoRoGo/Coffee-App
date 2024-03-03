@@ -1,0 +1,1884 @@
+[
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 150,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 210,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 260,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2021
+      },
+      {
+        "number" : 40,
+        "machine" : "Inissia",
+        "year" : 2020
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 40,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Napoli",
+    "image" : "napoli",
+    "intensity" : 13
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 40,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 90,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2021
+      }
+    ],
+    "name" : "Corto",
+    "image" : "corto",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 50,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 150,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 120,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 60,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 40,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Kazaar",
+    "image" : "kazaar",
+    "intensity" : 12
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "India",
+    "image" : "india",
+    "intensity" : 11
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Caramel Crème Brûlée",
+    "image" : "caramel",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2015
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Ristretto",
+    "image" : "ristretto",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 100,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 130,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Capriccio",
+    "image" : "capriccio",
+    "intensity" : 5
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 60,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Cape Town Envivo",
+    "image" : "capetown",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Stockholm Fortissio",
+    "image" : "fortissio",
+    "intensity" : 8
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Buenos Aires",
+    "image" : "buenosaires",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 100,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 250,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 410,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 150,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 180,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2020
+      },
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2019
+      },
+      {
+        "number" : 40,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2017
+      }
+    ],
+    "name" : "Ristretto Decaffeinato",
+    "image" : "ristretto",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Vanilla Éclair",
+    "image" : "vanillaeclair",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Cocoa Truffle",
+    "image" : "cocoa",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      }
+    ],
+    "name" : "Forest Almond",
+    "image" : "forestalmond",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      }
+    ],
+    "name" : "Novecento",
+    "image" : "",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.38,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      }
+    ],
+    "name" : "Nicaragua La Cumplida",
+    "image" : "cumplida",
+    "intensity" : 5
+  },
+  {
+    "price" : 0.40000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 70,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Dharkan",
+    "image" : "",
+    "intensity" : 11
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Arpeggio",
+    "image" : "arpeggio",
+    "intensity" : 9
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Roma",
+    "image" : "roma",
+    "intensity" : 8
+  },
+  {
+    "price" : 0.40000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 60,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 120,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Indriya",
+    "image" : "",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.40000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 60,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Rosabaya",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.40000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Bukeela",
+    "image" : "",
+    "intensity" : 3
+  },
+  {
+    "price" : 0.40000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Dulsao",
+    "image" : "",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Livanto",
+    "image" : "livanto",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Volluto",
+    "image" : "volluto",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Cosi",
+    "image" : "cosi",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Vivalto",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2021
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 70,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Linizio",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 170,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Arpeggio Decaffeinato",
+    "image" : "arpeggio",
+    "intensity" : 9
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 150,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 170,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Volluto Decaffeinato",
+    "image" : "volluto",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.38,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 40,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Decaffeinato Intenso",
+    "image" : "",
+    "intensity" : 10
+  },
+  {
+    "price" : 0.42999999999999999,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 40,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Ciocattino",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.42999999999999999,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2019
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 50,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Vanillo",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.42999999999999999,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2017
+      },
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2020
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2018
+      },
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 100,
+        "machine" : "Inissia",
+        "year" : 2016
+      },
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Caramelito",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2017
+      }
+    ],
+    "name" : "Chiaro",
+    "image" : "chiaro",
+    "intensity" : 5
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2017
+      }
+    ],
+    "name" : "Scuro",
+    "image" : "scuro",
+    "intensity" : 8
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Indonesia",
+    "image" : "indonesia",
+    "intensity" : 8
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2019
+      },
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Colombia",
+    "image" : "colombia",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Nicaragua",
+    "image" : "nicaragua",
+    "intensity" : 5
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Ethiopia",
+    "image" : "ethiopia",
+    "intensity" : 4
+  },
+  {
+    "price" : 0.80000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Costa Rica",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Paris Black",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Paris Macaron",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2018
+      }
+    ],
+    "name" : "Paris Praliné",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.39000000000000001,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      },
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Venezia",
+    "image" : "venezia",
+    "intensity" : 8
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Istambul",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Trieste",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 50,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Milano",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Nordic Black",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2019
+      }
+    ],
+    "name" : "Nordic Almond Cake",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.59999999999999998,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Pixie",
+        "year" : 2020
+      }
+    ],
+    "name" : "Uganda",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Pixie",
+        "year" : 2020
+      }
+    ],
+    "name" : "Amaretti",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 40,
+        "machine" : "Pixie",
+        "year" : 2020
+      }
+    ],
+    "name" : "Torta di Nocciole",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.55000000000000004,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Pixie",
+        "year" : 2020
+      }
+    ],
+    "name" : "Il caffe",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Vanila Amaretti",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Cioccoginger",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2015
+      }
+    ],
+    "name" : "Vanila Cardamomo",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 60,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Tanim",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Umutima",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2017
+      },
+      {
+        "number" : 40,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Cafezinho",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 30,
+        "machine" : "Inissia",
+        "year" : 2017
+      }
+    ],
+    "name" : "Selection Vintage 2014",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.46000000000000002,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Inissia",
+        "year" : 2017
+      }
+    ],
+    "name" : "Aurora de La Paz",
+    "image" : "",
+    "intensity" : 0
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Apfelstrudel",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Linzer Torte",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.5,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Inissia",
+        "year" : 2016
+      }
+    ],
+    "name" : "Sachertorte",
+    "image" : "",
+    "intensity" : 6
+  },
+  {
+    "price" : 1.2,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2021
+      }
+    ],
+    "name" : "Jamaica Blue Montain",
+    "image" : "jamaica",
+    "intensity" : 7
+  },
+  {
+    "price" : 0.46999999999999997,
+    "isRecent" : false,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Sumatra",
+    "image" : "sumatra",
+    "intensity" : 7
+  },
+  {
+    "price" : 0.45000000000000001,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Vienna",
+    "image" : "vienna",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.59999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Congo Organic",
+    "image" : "congo",
+    "intensity" : 7
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Rio de Janeiro",
+    "image" : "janeiro",
+    "intensity" : 9
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Paris Espresso",
+    "image" : "parisespresso",
+    "intensity" : 6
+  },
+  {
+    "price" : 0.52000000000000002,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Miami Espresso",
+    "image" : "miami",
+    "intensity" : 9
+  },
+  {
+    "price" : 0.41999999999999998,
+    "isRecent" : true,
+    "amount" : [
+      {
+        "number" : 20,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      },
+      {
+        "number" : 10,
+        "machine" : "Essenza Mini",
+        "year" : 2022
+      }
+    ],
+    "name" : "Istambul Espresso",
+    "image" : "istambulespresso",
+    "intensity" : 8
+  }
+]
